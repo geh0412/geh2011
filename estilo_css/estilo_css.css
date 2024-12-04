@@ -1,0 +1,122 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+	border-left-style: double;
+	border-right-style: double;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-top-style: double;
+	border-bottom-style: double;
+	border-top-color: #00FF00;
+	border-right-color: #00FF00;
+	border-bottom-color: #00FF00;
+	border-left-color: #00FF00;
+	text-align: justify;
+}
+.mapas {
+	background-color: #000000;
+}
+
+.row {
+	background-position: center center;
+	text-align: center;
+	display: table-cell;
+	border-top-width: thick;
+	border-right-width: thick;
+	border-bottom-width: thick;
+	border-left-width: thick;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #006633;
+	border-right-color: #006633;
+	border-bottom-color: #006633;
+	border-left-color: #006633;
+}
+
+.titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+}
+.subtitulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+}
+.legenda {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: normal;
+	text-align: center;
+}
+.texto {
+	text-align: justify;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+a:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+}
+a:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+.autor {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: right;
+}
+.enunciado {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-align: justify;
+}
+.alternativas {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-align: left;
+}

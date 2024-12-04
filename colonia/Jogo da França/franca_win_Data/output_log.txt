@@ -1,0 +1,49 @@
+Player: init engine
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2281]
+    Renderer: Intel(R) HD Graphics
+    Vendor:   Intel
+    VRAM:     1274 MB
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+                                Total Object count 2012 (Before unload 1585)
+       Total Object count 2718 (Before unload 3387)
+     Total Object count 14482 (Before unload 13391)
+ Chamado start monkey
+UnityEngine.Debug:Log(Object)
+MacacoFirstStepAI:StartMonkey()
+UnityEngine.Component:BroadcastMessage(String, Object, SendMessageOptions)
+UnityEngine.Component:BroadcastMessage(String, Object, SendMessageOptions)
+UnityEngine.Component:BroadcastMessage(String)
+StartMonkeyTrigger:OnTriggerEnter(Collider)
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+chamando ativer delayed
+UnityEngine.Debug:Log(Object)
+$:MoveNext()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+Chamado start monkey
+UnityEngine.Debug:Log(Object)
+MacacoFirstStepAI:StartMonkey()
+UnityEngine.Component:BroadcastMessage(String, Object, SendMessageOptions)
+UnityEngine.Component:BroadcastMessage(String, Object, SendMessageOptions)
+UnityEngine.Component:BroadcastMessage(String)
+StartMonkeyTrigger:OnTriggerEnter(Collider)
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+distY: 1,535896 auxtime: 0,8968063
+UnityEngine.Debug:Log(Object)
+MacacoAI:OnTriggerEnter(Collider)
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+jump: 6,111464
+UnityEngine.Debug:Log(Object)
+MacacoAI:OnTriggerEnter(Collider)
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 1783)
+
+Cleanup player
